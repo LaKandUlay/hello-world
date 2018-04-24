@@ -3,4 +3,4 @@ Just another repository
 
 Hello World!,
 
-I am Lakandulay I love watching Korean movies and playing Basketball.
+I am Lakandulay, I love watching Korean movies and playing Basketball.
